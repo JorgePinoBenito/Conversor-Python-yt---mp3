@@ -1,5 +1,3 @@
-#haz un programa para descargar videos de youtube y guardarlos en el escritorio
-
 import re
 from pytube import YouTube
 import os
